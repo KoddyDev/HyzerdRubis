@@ -1,0 +1,5 @@
+name: HyzerdRubis
+version: 1.0
+depend: [ mkAPI, PlaceholderAPI ]
+authors: [ KoddyDev ]
+main: me.koddydev.hyzerdrubis.RubisMain
